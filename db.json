@@ -1,0 +1,43 @@
+{
+  "employee": [
+    {
+      "id": 5,
+      "name": "jul",
+      "email": "jul@umy.ac.id",
+      "phone": "08461611"
+    },
+    {
+      "id": 7,
+      "name": "kriwlfuk",
+      "email": "kriwlfuk@gk.ac.id",
+      "phone": "0856411"
+    },
+    {
+      "id": 8,
+      "name": "fhira",
+      "email": "fhira@ugm.ac",
+      "phone": "02251515"
+    },
+    {
+      "name": "izzani",
+      "email": "izzani@webmail.uad.ac.id",
+      "phone": "08880111",
+      "active": true,
+      "id": 9
+    },
+    {
+      "name": "ilham",
+      "email": "ilham@gmail.com",
+      "phone": "123456789",
+      "active": true,
+      "id": 10
+    },
+    {
+      "name": "Prima Samudra",
+      "email": "purwodadi@gmai.com",
+      "phone": "0123456789",
+      "active": true,
+      "id": 11
+    }
+  ]
+}
