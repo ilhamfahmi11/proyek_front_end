@@ -2,7 +2,7 @@ import { Button, Jumbotron } from "react-bootstrap";
 import React from "react";
 
 const JumbotronComponent = (props) => {
-  const redirectToInstagram = () => {
+  const redirectTogithub = () => {
     window.location.assign("https://github.com/ilhamfahmi11");
   };
 
@@ -10,7 +10,7 @@ const JumbotronComponent = (props) => {
     <div>
       <Jumbotron style={{ backgroundColor: "#C0C0C0", textAlign: "center" }}>
         <p>
-          <Button variant="info" onClick={redirectToInstagram}>
+          <Button variant="info" onClick={redirectTogithub}>
             github
           </Button>
         </p>
